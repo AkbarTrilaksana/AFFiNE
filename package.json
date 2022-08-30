@@ -69,7 +69,7 @@
         "got": "^12.1.0",
         "level": "^8.0.0",
         "level-read-stream": "1.1.0",
-        "next": "12.2.0",
+        "next": "12.2.4",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "react-router": "^6.3.0",
