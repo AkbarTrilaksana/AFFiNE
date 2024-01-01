@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "license": "MIT",
     "dependencies": {
-        "@authing/react-ui-components": "^3.1.23",
+        "@authing/react-ui-components": "^4.3.9",
         "@emotion/styled": "^11.9.3"
     },
     "devDependencies": {
